@@ -117,4 +117,5 @@ For questions or support, please open an issue on [GitHub](https://github.com/mo
 
 ---
 
-**Built for Datalake 3.0** • **Perfect for Hackathons** ✨
+**Built for Datalake 3.0**
+
