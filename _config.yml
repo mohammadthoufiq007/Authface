@@ -1,0 +1,13 @@
+title: Authface Hackathon Proposal
+description: Secure offline facial-recognition and liveness for Datalake 3.0.
+markdown: kramdown
+theme: minima
+
+exclude:
+  - DatalakeApp/
+  - ml_pipeline/
+  - node_modules/
+  - vendor/
+  - Authface_Hackathon.zip
+  - README.md
+  - RUN_INSTRUCTIONS.md

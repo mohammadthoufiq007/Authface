@@ -29,5 +29,5 @@ Secure Offline Facial-Recognition & Liveness for Datalake 3.0.
 
 ## Notes
 
-- Place `.tflite` files inside `tflite_models/` for reference and copy them into the native app asset folders before running.
+- Place `.tflite` files inside `ml_pipeline/tflite_models/` for reference and copy them into the native app asset folders before running.
 - For iOS, run `cd DatalakeApp/ios && pod install` before `npm run ios`.
