@@ -39,8 +39,8 @@ React-Native (JS) → Native Bridge (Kotlin/Swift) → TensorFlow-Lite (.tflite)
 
 ## Submission Artefacts
 
-- ZIP file: [Authface_Hackathon.zip](https://github.com/mohammadthoufiq007/Authface-Hackathon/releases/download/v1.0/Authface_Hackathon.zip)
-- GitHub repo: this repository.
+- ZIP file: `Authface_Hackathon.zip` (local artifact in this repo root)
+- GitHub repo: `https://github.com/mohammadthoufiq007/Authface`
 - `ml_pipeline/BENCHMARKS.md`
 - `ml_pipeline/HACKATHON_SUBMISSION.md`
 

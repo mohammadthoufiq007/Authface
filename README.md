@@ -1,6 +1,6 @@
-# Authface-Hackathon
+# Authface
 
-[![GitHub Pages](https://github.com/mohammadthoufiq007/Authface-Hackathon/workflows/GitHub%20Pages/badge.svg)](https://mohammadthoufiq007.github.io/Authface-Hackathon/)
+[![GitHub Pages](https://github.com/mohammadthoufiq007/Authface/actions/workflows/pages.yml/badge.svg)](https://mohammadthoufiq007.github.io/Authface/)
 
 Secure Offline Facial-Recognition & Liveness for Datalake 3.0.
 
@@ -8,8 +8,8 @@ Secure Offline Facial-Recognition & Liveness for Datalake 3.0.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammadthoufiq007/Authface-Hackathon.git
-   cd Authface-Hackathon/DatalakeApp
+   git clone https://github.com/mohammadthoufiq007/Authface.git
+   cd Authface/DatalakeApp
    ```
 2. Install dependencies:
    ```bash
