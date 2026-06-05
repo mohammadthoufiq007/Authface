@@ -1,0 +1,13 @@
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# React Native
+android/app/build/
+ios/Pods/
+ios/build/
+
+# Generated files
+.DS_Store
+*.log
