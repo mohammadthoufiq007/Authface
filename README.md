@@ -2,14 +2,19 @@
 
 [![GitHub Pages](https://github.com/mohammadthoufiq007/Authface/actions/workflows/pages.yml/badge.svg)](https://mohammadthoufiq007.github.io/Authface/)
 
-Secure Offline Facial-Recognition & Liveness for Datalake 3.0.
+Secure offline facial‑recognition & liveness for Datalake 3.0.
 
-## Quick start
+## Live Demo  
 
-1. Clone the repository:
+[View the live site](https://mohammadthoufiq007.github.io/Authface/)
+
+## Quick start (GitHub Pages)
+
+1. **Clone the repository**  
+
    ```bash
    git clone https://github.com/mohammadthoufiq007/Authface.git
-   cd Authface/DatalakeApp
+   cd Authface
    ```
 2. Install dependencies:
    ```bash
