@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: Authface
+description: Secure Offline Facial-Recognition & Liveness for Datalake 3.0
+
+exclude:
+  - DatalakeApp/
+  - ml_pipeline/
+  - node_modules/
+  - README_*.md
+
+plugins:
+  - jekyll-seo-tag
