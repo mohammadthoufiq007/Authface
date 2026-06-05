@@ -3,7 +3,7 @@ import { SafeAreaView, StatusBar, StyleSheet, Text, View } from 'react-native';
 import LivenessScreen from './src/screens/LivenessScreen';
 
 function App(): React.JSX.Element {
-  const onVerificationSuccess = (embedding) => {
+  const onVerificationSuccess = (embedding: number[]) => {
     console.log('User verified with embedding length: ', embedding.length);
     // Proceed to sync or login
   };

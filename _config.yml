@@ -1,12 +1,25 @@
-theme: jekyll-theme-minimal
-title: Authface
-description: Secure Offline Facial-Recognition & Liveness for Datalake 3.0
+# _config.yml – GitHub Pages / Jekyll configuration
 
+title: Authface Hackathon Proposal
+description: Secure offline facial‑recognition and liveness for Datalake 3.0.
+markdown: kramdown
+
+# Choose a theme – you can keep either one; they’re equivalent in appearance
+# Uncomment the one you prefer:
+theme: minima          # <-- classic Jekyll theme
+# theme: jekyll-theme-minimal   # <-- minimalistic theme
+
+# Files / folders that should NOT be copied to the generated site
 exclude:
   - DatalakeApp/
   - ml_pipeline/
   - node_modules/
-  - README_*.md
+  - vendor/
+  - Authface_Hackathon.zip
+  - README.md
+  - RUN_INSTRUCTIONS.md
+  # If you have any README_*.md you *do* want to keep, remove the wildcard line
+  # - README_*.md
 
 plugins:
   - jekyll-seo-tag
