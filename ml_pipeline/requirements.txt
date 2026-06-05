@@ -1,0 +1,3 @@
+onnx==1.13.1
+onnx-tf==1.9.5
+tensorflow==2.14.0
